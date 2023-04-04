@@ -1,0 +1,186 @@
+.hero-banner {
+  background-color: #111b33;
+}
+.hero-banner,
+.hero-banner .title-box,
+.hero-banner .img-box,
+.sol-img-wrapper {
+  height: 90vh;
+}
+
+/* banner images */
+/* banner images */
+.banner-img,
+.sol-img {
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 80vh;
+  background-position: center;
+}
+@media (max-width: 576px) {
+  .hero-banner .title-box {
+    height: 30vh;
+  }
+
+  .hero-banner .img-box {
+    max-width: 100%;
+  }
+  .banner-title {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 1024px) {
+  .banner-title {
+    font-size: 2.5rem;
+  }
+}
+@media (max-width: 768px) {
+  .hero-banner .title-box {
+    height: 30vh;
+  }
+  .hero-banner .img-box {
+    max-width: 100%;
+    height: 60vh;
+  }
+  .banner-img,
+  .sol-img {
+    height: 50vh;
+  }
+}
+@media (min-width: 768px) {
+  .banner-img,
+  .sol-img {
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-position: center;
+  }
+}
+@media (max-width: 576px) {
+  .hero-banner .title-box {
+    height: 30vh;
+  }
+
+  .hero-banner .img-box {
+    max-width: 100%;
+  }
+  .banner-title {
+    font-size: 2rem;
+  }
+} /* ==== Inner page banners ==== */
+.contact {
+  background-image: url("/images/contact.svg");
+}
+
+.career {
+  background-image: url("/images/careers.svg");
+}
+
+.job-description {
+  background-image: url("/images/job-details.svg");
+}
+
+.about {
+  background-image: url("/images/about2.svg");
+}
+/* ==== service details page banners ==== */
+
+/* 1. Robotic Process Automation */
+.rpa {   
+  background-image: url("/images/service-pages/8.png");
+}
+ 
+/* 2. Artificial Intelligence */
+.ai {   
+  background-image: url("/images/service-pages/16.png");
+}
+/* 3. Optical Character Recognition */
+.ocr {
+  background-image: url("/images/service-pages/15.svg");
+}
+
+/* 4. Blockchain */
+.blockchain {   
+  background-image: url("/images/service-pages/9.svg");
+}
+/* 5. Internet of things */
+.iot {   
+  background-image: url("/images/service-pages/7.png");
+}
+
+/* 6. Bigdata */
+.bigdata {
+  background-image: url("/images/service-pages/17.png");
+}
+/* 7. Network Security */
+.network {   
+  background-image: url("/images/service-pages/10.png");
+}
+/* 8. Cyber Security */
+.cyber {   
+  background-image: url("/images/service-pages/4.png");
+}
+/* 9. application and data security */
+.data {   
+  background-image: url("/images/service-pages/1.png");
+}
+
+/* 10. governance and compliance */
+.compliance {   
+  background-image: url("/images/service-pages/6.png");
+}
+/* 11. endpoint and mobile security */
+.endpoint {   
+  background-image: url("/images/service-pages/2.png");
+}
+/* 12. Identity and Access Management */
+.iam {   
+  background-image: url("/images/service-pages/3.png");
+}
+/* 13. software development */
+.software {
+  background-image: url("/images/service-pages/14.png");
+}
+/* 14. Mobile app development */
+.mobile {   
+  background-image: url("/images/service-pages/5.png");
+}
+/* 15. Web development */
+.web {
+  background-image: url("/images/service-pages/21.png");
+}
+/* 16. Digital Marketing */
+.digital {
+  background-image: url("/images/service-pages/20.svg");
+}
+
+/* 17. Outsourcing */
+.outsource {   
+  background-image: url("/images/service-pages/12.png");
+}
+
+/* 18. Data Center */
+.datacenter {
+  background-image: url("/images/service-pages/22.png");
+}
+/* 19. System Infra */
+.infra {   
+  background-image: url("/images/service-pages/18.png");
+}
+
+/* 20. End user computing */
+.enduser {   
+  background-image: url("/images/service-pages/11.png");
+}
+/* 21. Data Visualization */
+.datavis {   
+  background-image: url("/images/service-pages/13.png");
+}
+
+/* 22. Predictive Analysis */
+.predictive {   
+  background-image: url("/images/service-pages/19.png");
+}
+.staffing {
+  background-image: url("/images/service-pages/staff.svg");
+}

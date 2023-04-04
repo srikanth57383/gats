@@ -1,0 +1,61 @@
+{
+  "title": "Cyber Security",
+  "path": "cyber-security",
+  "metaTitle": "Top Cyber Security Companies in India & USA",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "caption": "Providing Smart security for the smart generation",
+  "overview": "In today’s internet-driven world, focussing on cyber defense is crucial for organizations. As with evolving threats, hackers may access or destroy sensitive data. Our team is dedicated to the process of securing networks, devices, and programs against any type of cyberattack. We want to ensure that our clients feel secure while browsing the web. The team of security experts at ZYCLYX is well aware of PTES, PCI DSS, ISSAF, Mitre's ATT&CK, TIBER-EU, FedRAMP , NIST800-115, CREST, OSSTMM, and Financial Entities Ethical Red-Teaming Frameworks. With this expert team you gain security against various cyber threats like Phishing, Malware, Spamming, Hacking, Ransomware, etc.",
+  "solTitle": "Making the Internet a safer place",
+  "bannerImage": "cyber",
+  "solImage": "cyber-sol.jpg",
+  "scroll": true,
+  "duration": 150,
+  "services": [
+    {
+      "title": "Web Protection",
+      "content": "The key motive here is to provide users everywhere with 24/7 quick access to data and cloud applications while ensuring its safety from inbound and outbound threats. We take care of complex issues, security and performance blocking any attacks.",
+      "points": []
+    },
+    {
+      "title": "Log Management and Log Correlation",
+      "content": "We are here to help you manage a vast collection of logs with practical solutions. Our centralized system correlates data from different sources to enable faster data computation. This allows users to monitor and log data accurately leading to optimized system performance.",
+      "points": []
+    },
+    {
+      "title": "Endpoint Protection",
+      "content": "Our end-point solutions are designed to provide all-round protection. This process detects, prevents, responds and stops the threats of an attack at its initial stages. We have a complete suite of operations designed to support multiple use cases and users.",
+      "points": []
+    },
+    {
+      "title": "SOC Automation",
+      "content": "Security Operation Centers (SOC) have become part of every major organization in today's vulnerable times. We understand the importance of SOCs to identify, evaluate, and respond to cyber-attacks. Our SOC Automation arms your organization with tools for much more streamlined and highly effective defense. It acts like a well-equipped army which is ready, round-the-clock, to detect and address potential breaches",
+      "points": []
+    },
+    {
+      "title": " Forensic Services / Incident Response",
+      "content": "We are here to support the Forensic services with the process of detecting, investigating, documenting, collecting, processing and analyzing any computer-related evidence of law enforcement investigations or criminal fraud. While our Incident response team comprises experts when it comes to managing the security breach or cyber attack. Our automation is aimed to limit the damage while reducing your time and cost of recovery.",
+      "points": []
+    },
+    {
+      "title": "Compliance Assessment",
+      "content": "Our team is here to analyze any discrepancies by studying the differences between your current control system and actual requirements. As it is not part of risk assessment, the identified gaps may or may not correlate with exposure to risk.",
+      "points": []
+    },
+    {
+      "title": "Implement (SIEM)",
+      "content": "We use the best network and hardware applications for our Security Information and Event Management (SIEM) services. These applications generate a real-time analysis of the threats and security warnings. It also provides a comparison between different events and warnings while managing the storage, processing, analysing and reporting of various security data.",
+      "points": []
+    },
+    {
+      "title": "Vulnerability Assessment / Pen Test / RED",
+      "content": "As part of Vulnerability assessment we define, detect, classify and prioritize the vulnerabilities encountered by the computer systems, software and network infrastructure. We make an effort to convey the required knowledge to help your organization to recognize and react appropriately to these threats. During penetration testing ( Pen test) our team of cyber analysts simulates a cyber attack on the computer systems to check for bugs that can be exploited.",
+      "points": []
+    },
+    {
+      "title": "DNS Security",
+      "content": "Our DNS security solutions are aimed to increase your protection against malicious attacks with a set of extensions. Any organization must secure the DNS as it generates a host of IP addresses.",
+      "points": []
+    }
+  ]
+}

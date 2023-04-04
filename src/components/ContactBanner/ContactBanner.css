@@ -1,0 +1,83 @@
+.contact-banner {
+  background-color: #f0f1f9;
+}
+.contact-b-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #00a14b;
+}
+.button {
+  color: #fff;
+  background: #111b33;
+  border: none;
+  outline: none;
+  position: relative;
+  padding: 10px 35px 10px 15px;
+  border-bottom: 2px solid #026a9f;
+  border-radius: 10px;
+  outline: none;
+  max-width: 160px;
+}
+.button::after {
+  content: "";
+  position: absolute;
+  background: #026a9f;
+  width: 2px;
+  height: 25px;
+  right: -2px;
+  top: 11px;
+  border-bottom-right-radius: 10px;
+  z-index: 1;
+}
+.button::before {
+  content: "";
+  position: absolute;
+  background: #026a9f;
+  height: 25px;
+  width: 25px;
+  right: -2px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+}
+.btn-icon {
+  position: absolute;
+  z-index: 3;
+  right: 2px;
+}
+.button:hover {
+  text-decoration: none;
+  font-weight: 500;
+  color: #f0f1f9;
+  background: rgb(25, 41, 77);
+}
+.button:focus {
+  outline: none;
+}
+.contact-banner img {
+  max-width: 100%;
+}
+.button-light {
+  background-color: #eea21d;
+  color: #111b33;
+  border-bottom: 2px solid #026a9f;
+  font-weight: 600;
+}
+.button-light.button::before {
+  background-color: hsl(222deg 50% 13% / 43%);
+}
+.button-light svg {
+  color: #fff;
+}
+.button-light:hover {
+  font-weight: 600;
+  background-color: hsl(38, 86%, 45%);
+  color: #111b33;
+  border-bottom: 2px solid #026a9f;
+}
+@media (max-width: 576px) {
+  .contact-b-title {
+    text-align: center;
+    font-size: 2rem;
+  }
+}

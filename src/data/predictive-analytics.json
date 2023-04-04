@@ -1,0 +1,41 @@
+{
+  "title": "Predictive Analytics",
+  "path": "predictive-analytics",
+  "metaTitle": "Predictive Analytics Services in India & USA",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "caption": "Assisting you with advanced analytic capabilities for better future decisions",
+  "overview": "We use various data mining techniques, statistics, modeling, machine learning, and AI to predict and analyze the existing data to forecast future trends. For this, we primarily concentrate on studying past behaviors. Our team is dedicated to the design and implementation of such models, they extract relevant information from the data set to establish trends for the outcome. Some of its applications like risk management, revenue forecasting, demand research, financial modeling, and others help in almost every industry.",
+  "solTitle": "Get smart insights that shape your Future",
+  "bannerImage": "predictive",
+  "solImage": "predictive-sol.jpg",
+  "scroll": true,
+  "duration": 30,
+  "services": [
+    {
+      "title": "Data Fetching",
+      "content": "We begin the process with data mining and gather data from multiple sources and carry predictive research.",
+      "points": []
+    },
+    {
+      "title": "Analysis",
+      "content": "This includes the scanning, sorting, transforming and modeling of data in order to obtain valuable information and get insightful conclusions.",
+      "points": []
+    },
+    {
+      "title": "Modeling",
+      "content": "Moving forward, we use a variety of machine learning algorithms to build precisely programmed and optimized predictive models for the future",
+      "points": []
+    },
+    {
+      "title": "Monitoring",
+      "content": "The developed models are deployed into the business processes and we track the work after delivery to ensure the customer gets reliable data, documentation, and output from the process. We run regular updates to ensure consistent quality performance.",
+      "points": []
+    },
+    {
+      "title": "Predictive analysis",
+      "content": "To display product or individual connections the results of the study are displayed in graphical form. Our team focuses on creating connections between customers and social influencers, creating product reviews and using geo- referenced data to construct models around the most-visited geographic locations.",
+      "points": []
+    }
+  ]
+}

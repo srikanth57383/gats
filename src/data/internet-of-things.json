@@ -1,0 +1,30 @@
+{
+  "title": "Internet of Things",
+  "path": "internet-of-things",
+  "metaTitle": "Internet of Things (IoT) Solutions in India & USA",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "caption": "Transforming the world with smart connections",
+  "overview": "IoT includes a sensor, electronics, or software linked to the internet that can be remotely accessed. Our team generates Uniques Identifiers (UIDs), which lets the devices communicate and thus allows them to move data over a network without human to human interaction. IoT systems provide us with the ability to be more effective with the way we do things, saving us time and resources. Smart devices/ appliances, smart cities, self-driving vehicles, farming and more are included.",
+  "solTitle": "Stay ahead with smart solutions and new experiences",
+  "bannerImage": "iot",
+  "solImage": "iot-sol.png",
+  "scroll": false,
+  "services": [
+    {
+      "title": "Performance & Maintenance solutions",
+      "content": "Through the use of Predictive Analytics, the Solution Analysts at ZYCLYX have helped many global enterprises avoid system failures. This has helped companies dramatically to drive down costs and increase competitive efficiency.",
+      "points": []
+    },
+    {
+      "title": "Custom Solutions",
+      "content": "It's unlikely to provide pre-made IoT solutions as the businesses start embracing digital transformation. Here's where we come in to help the companies build solutions customized to their needs.",
+      "points": []
+    },
+    {
+      "title": "Systems Integrator Services",
+      "content": "In the expectation of a long-term collaboration, we provide system integrator services such as business and design consultancy, sensor development, software integration, project management, and maintenance.",
+      "points": []
+    }
+  ]
+}

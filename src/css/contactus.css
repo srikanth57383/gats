@@ -1,0 +1,249 @@
+/*
+.c-form {
+  z-index: 2;
+}
+.c-form-wrapper {
+  position: relative;
+}
+.Formaddress {
+  background: #f1f2f2;
+  padding: 0px 0px 41px 0px;
+  position: relative;
+} */
+/* .mx-auto .row {
+  padding: 10px;
+} */
+/* .contact-title {
+  color: #2db32d;
+}
+.contact-text {
+  margin: 0;
+}
+.icons {
+  height: 50px;
+  margin: 0 5px;
+  color: #2db32d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* .bannerimage .row h1 {
+  color: white;
+}
+.map {
+  padding: 0px;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 1.5rem;
+  height: 50px;
+  width: 50px;
+  box-shadow: 0 0 5px 1px #a0a0a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #2db32d;
+  border-radius: 0.5rem;
+}
+.form-close:hover {
+  background-color: #2db32d;
+  color: #ffffff;
+}
+.btn-style {
+  display: flex;
+  justify-content: center;
+}
+.mapstyle {
+  width: 100%;
+  height: 80vh;
+}
+.btnstyle {
+  display: flex;
+  justify-content: center;
+} */
+
+@media (min-width: 300px) and (max-width: 575.98px) {
+  .bannerimage .row h1 {
+    color: #16dc43;
+    font-size: 27px;
+  }
+
+  .icons {
+    font-weight: 400;
+    height: 20px;
+    width: 20px;
+    margin: 0 5px;
+    text-align: center;
+    color: #2db32d;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .iconscolor {
+    color: #2db32d;
+    font-size: 16px;
+  }
+  .ptagstyle {
+    font-size: 10px;
+  }
+  .btncolor {
+    background: #094c56;
+    color: white;
+    font-size: 10px;
+    width: 88px;
+    height: 27px;
+  }
+  .inputstyle {
+    width: 150px;
+    height: 30px;
+    border-radius: 3px;
+  }
+  .headstyle {
+    color: #2a942a;
+  }
+  .headstyle h4 {
+    font-size: 10px;
+  }
+  .main {
+    margin-left: 60px;
+  }
+  .inputstyle input {
+    width: 300px;
+
+    border-radius: 6px;
+    padding: 15px;
+  }
+  .inputstyle label {
+    font-size: 15px;
+    padding: 5px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .headstyle h4 {
+    color: #2a942a;
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+  .inputstyle input {
+    width: 300px;
+
+    border-radius: 6px;
+    padding: 15px;
+  }
+  .icons {
+    font-weight: 400;
+    height: 30px;
+    width: 30px;
+    margin: 0 5px;
+    text-align: center;
+    color: #2db32d;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .iconscolor {
+    color: #2db32d;
+    font-size: 16px;
+  }
+}
+
+/* New Contact us page */
+.contact-text {
+  margin: 0;
+}
+.contact-title {
+  color: #2db32d;
+}
+.icons {
+  height: 50px;
+  margin: 0 5px;
+  color: #2db32d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact-icon {
+  font-size: 1.5rem;
+}
+.c-wrapper-left,
+.c-wrapper-right {
+  min-height: 80vh;
+  background: #f1f2f2;
+}
+
+.c-info-title {
+  color: #2a942a;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.spacer {
+  background: #f1f2f2;
+}
+/* .form-control {
+  border: none;
+  color: #333333;
+  border-radius: 0.5rem;
+}
+
+.floating-label {
+  position: relative !important;
+}
+
+.floating-label label {
+  left: 8px;
+  position: absolute;
+  top: 0;
+  opacity: 0;
+  transition: all 0.2s;
+}
+
+.floating-label input:not(:placeholder-shown) {
+  border: 1px solid rgba(249, 249, 249, 0.5);
+}
+
+.floating-label input:not(:placeholder-shown) + label,
+.floating-label textarea:not(:placeholder-shown) + label {
+  background-image: linear-gradient(
+    to top,
+    #ffffff 50%,
+    transparent,
+    transparent,
+    transparent 100%
+  );
+  transform: translate(0, -50%) !important;
+  opacity: 1 !important;
+  color: #333333;
+  margin: 0;
+  margin-left: 0.4rem;
+  padding: 0 0.4rem;
+}
+.required,
+.err-msg {
+  color: #ff0000;
+}
+.floating-label label {
+  color: #2db32d !important;
+}
+.form-control {
+  outline: none;
+}
+.form-control:focus {
+  box-shadow: none;
+} */
+
+@media (max-width: 576px) {
+  .c-info-title {
+    font-size: 1.2rem;
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Blockchain",
+  "path": "blockchain",
+  "metaTitle": "Block Chain Services in India & USA",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "caption": "Developing comprehensive Blockchain solutions for the world",
+  "overview": "The technology functions as a digital ledger based on a P2P network that enables various users to have consistent transaction records, each of which is time-stamped and linked to the previous block. With every transaction collection added, the data becomes another link in the chain. It's favored because it's a write-once system, making any transaction a verifiable and auditable record. We propose that this be generated for Financial Services, Smart Land, Retails, etc.",
+  "solTitle": "Adopt Blockchain and lead the way for a better tomorrow",
+  "bannerImage": "blockchain",
+  "solImage": "blockchain-sol.png",
+  "scroll": false,
+  "services": [
+    {
+      "title": "Tracking and Monitoring",
+      "content": "We build blockchain applications to assist you in real-time monitoring by keeping track of any services or tasks.",
+      "points": []
+    },
+    {
+      "title": "Prompt Provisions",
+      "content": " In order to prevent any problems, we take complete responsibility for installing, deploying and maintaining a blockchain infrastructure.",
+      "points": []
+    },
+    {
+      "title": "Backend Services",
+      "content": "We recognize that every organization has specific requirements for backend services. This is why we are working on providing innovative technologies and combining them with specific services.",
+      "points": []
+    },
+    {
+      "title": "Smart Contracts",
+      "content": "Smart Contracts are important when incorporating business logic into the blockchain solutions. This is why our team ensures the integration takes place before deployment.",
+      "points": []
+    }
+  ]
+}

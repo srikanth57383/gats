@@ -1,0 +1,30 @@
+{
+  "title": "Artificial Intelligence",
+  "path": "artificial-intelligence",
+  "metaTitle": "Artificial Intelligence Solutions | AI Development",
+  "metaDescription": "ZYCLYX is the best IT services provider for artificial intelligence, machine learning solutions in India.",
+  "metaKeywords": "Artificial Intelligence company in noida, Machine Learning Solutions company in india, Deep Learning Solutions company in india, Machine Learning Solutions provider, Artificial intelligence Solutions provider",
+  "caption": "Drive innovation with our Advanced AI solutions",
+  "overview": "Artificial Intelligence is a unit enabling the development of smart machines based on the human intelligence concept. Our specialists work on machines to help them imitate and perform functions, from the easiest to the most complex. It addresses thinking, reasoning and understanding. The research is underway to advance the processes across sectors, mainly in Banking, Logistics, Cyber Security, Healthcare and Hospitality.",
+  "solTitle": "AI Solutions powered by human ingenuity",
+  "bannerImage": "ai",
+  "solImage": "artificial-intelligence-sol.png",
+  "scroll": false,
+  "services": [
+    {
+      "title": "Digital Bots",
+      "content": "Our highly advanced digital bots powered by AI are designed to understand and perceive human behavior, resulting in robust support and enriching client experiences.",
+      "points": []
+    },
+    {
+      "title": "Business Analytics",
+      "content": "We customize AI solutions to analyze the business and make accurate and precise decisions based on predictive and accurate algorithmic data.",
+      "points": []
+    },
+    {
+      "title": "Virtualization",
+      "content": "We build secure information virtualization systems with the power of AI technology, which leads to dependable databases for taking the right business decisions.",
+      "points": []
+    }
+  ]
+}

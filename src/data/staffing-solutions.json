@@ -1,0 +1,31 @@
+{
+  "title": "Staffing Solutions",
+  "path": "staffing-solutions",
+  "metaTitle": "IT and Non-IT Staffing Solutions",
+  "metaDescription": "Zyclyx consulting services provides reliable Permanent, Temporary,  IT and Non-IT Staffing Solutions across India. ",
+  "metaKeywords": "Stafffing Solutions, Permanent Staffing Solutions, Temporary Staffing Solutions, IT Staffing companies India, Recruitment Agencies, Best Staffing Solutions in India,General Staffing Companies in India, Non-IT Staffing Solutions,",
+  "caption": "Finding the perfect fit for your needs",
+  "overview": "We work towards hiring more efficiently to deliver fast results by managing the end-to-end recruitment process. Our team has catered to the needs of a wide array of clients, from start-ups to large conglomerates. We are the staffing partner for various industries. Let’s team up to find you the best talent in the market while you focus on running your business.",
+  "solTitle": "Connecting you with the right resource",
+  "bannerImage": "staffing",
+  "solImage": "staffing-sol.png",
+  "scroll": false,
+  "duration": 20,
+  "services": [
+    {
+      "title": "Vast Network",
+      "content": "Our team's broad expertise in various industries' staffing solutions ensures that you get to choose from a large selection of candidates. Their vast networking capabilities can source talent globally.",
+      "points": []
+    },
+    {
+      "title": "Cost Effective",
+      "content": "Outsource your staffing needs to save some big bucks in terms of costs involved in hiring an in-house recruitment team. Join hands with our expert team and quickly fill in your resource requirement with our quality candidates.",
+      "points": []
+    },
+    {
+      "title": "Quick Turnaround Time",
+      "content": "Our end-to-end staffing expertise accelerates the hiring process, assuring you the right fit for your organization with our process execution.",
+      "points": []
+    }
+  ]
+}

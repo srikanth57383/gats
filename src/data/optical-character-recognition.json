@@ -1,0 +1,35 @@
+{
+  "title": "Optical Character Recognition",
+  "path": "optical-character-recognition",
+  "metaTitle": "OCR Scanning Company in India & USA | OCR Services",
+  "metaDescription": "ZYCLYX provides wide range of Optical Character Recognition(OCR) services to convert destructive to non-destructive scanned documents into editable and readable format.",
+  "metaKeywords": "OCR services,OCR Processing, OCR Text Processing, OCR Word Processing, document scanning,document scanning services,document conversion services,onsite scanning,data collection,scanner operators",
+  "caption": "Transforming Business documents into business value",
+  "overview": "The OCR technology converts virtually any kind of documents, such as scanned paper documents, PDF files, or images captured by a digital camera into machine-readable text data which is editable and searchable. It saves you a lot of time and effort when creating, processing, and repurposing various documents. We have developed this for various processes like Forms processing, Loan processing, Transcript processing, Invoice processing, etc.",
+  "solTitle": "Achieve higher productivity with digitized documents",
+  "bannerImage": "ocr",
+  "solImage": "ocr-sol.jpg",
+  "scroll": false,
+  "services": [
+    {
+      "title": "Auto Document Classification",
+      "content": "Our OCR Technology utilizes Artificial Intelligence (AI) to “read” documents like a human, to identify and classify the document into specific types and extract key data. These systems efficiently convert content from various sources into standard data types.",
+      "points": []
+    },
+    {
+      "title": "Auto Data Capture",
+      "content": "This allows users to identify and extract data from forms and documents by detecting characters and fields on forms. With our expertise, you can now quickly and accurately process the documents.",
+      "points": []
+    },
+    {
+      "title": "Template Data Capture",
+      "content": " The solution is designed to ensure data capture solutions with the capability to classify and recognize documents with different layouts at the same accuracy rates as that of structured forms.",
+      "points": []
+    },
+    {
+      "title": "Intelligent Data Capture (IDC)",
+      "content": " Using our IDC solutions you get advanced AI capabilities like Machine Learning and NLP which allow scanning through documents to detect, analyze, and classify tables. This data is stored in a digital format for future business use. ",
+      "points": []
+    }
+  ]
+}

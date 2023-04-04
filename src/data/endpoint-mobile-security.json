@@ -1,0 +1,46 @@
+{
+  "title": "Endpoint & Mobile Security",
+  "path": "endpoint-mobile-security",
+  "metaTitle": "The Worlds Best Endpoint Protection Servces in India & USA",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "caption": "Providing advanced solutions to reach beyond basic protection",
+  "overview": "Securing mobile endpoints (includes smartphones, tablets, and notebooks) has become a key requirement for most organizations. Our Mobile Endpoint Protection solutions provide comprehensive risk management across devices. The aim is to protect your data against applications, computers, and network-based threats while offering visibility and data leak control.",
+  "solTitle": "Protects Endpoints on all your platforms",
+  "bannerImage": "endpoint",
+  "solImage": "endpoint-sol",
+  "scroll": true,
+  "duration": 60,
+  "services": [
+    {
+      "title": "Endpoint Security",
+      "content": "It consists of a remote bridge approach to protect the devices while connecting to computer networks. As per experts connecting laptops, smartphones, tablets or other wireless devices to a corporate network can produce malicious attack routes. Our solutions have been developed to form a protective shield against such attacks.",
+      "points": []
+    },
+    {
+      "title": "Endpoint Encryption",
+      "content": "Our encryption software is designed to secure sensitive information during storage and transmission to a specific endpoint. There are various types of data that can be encrypted including home addresses, health-care data, bank account information, etc.",
+      "points": []
+    },
+    {
+      "title": "Endpoint Threat Detection and Response (ETDR)",
+      "content": "This solution involves the use of the latest technology which allows us to continuously track and respond to advanced threats. ETDR is a security solution that comprises real-time data collection and surveillance using rule-based automated response and analysis.",
+      "points": []
+    },
+    {
+      "title": "Mobile Device Management (MDM)",
+      "content": "As an important component of mobility management, it goes hand in hand with other important security aspects like Identity and Access Management (IAM). It has two main elements  - the MDM agent and the MDM server.",
+      "points": []
+    },
+    {
+      "title": "Mobile Security",
+      "content": "As the name suggests it involves the security of portable wireless devices like smartphones, tablets, etc. With more people opting for such devices it’s a top priority to secure them from computer-related threats and vulnerabilities. We do so by ensuring the protection of devices as well as the networks they are linked to.",
+      "points": []
+    },
+    {
+      "title": "Mobile Data Encryption",
+      "content": "We use a combination of software to mitigate the risk of data breaches of organizations' devices by adding multiple layers of security.",
+      "points": []
+    }
+  ]
+}

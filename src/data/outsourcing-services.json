@@ -1,0 +1,36 @@
+{
+  "title": "Outsourcing Services",
+  "path": "outsourcing-services",
+  "metaTitle": "Outsourcing Services",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "caption": "Delivering IT expertise responsive to your business needs",
+  "overview": "We provide Outsourcing Support Services with a vision to ensure that you are in total control of your business while we serve as an extended arm of your team. Our experienced team is dedicated to helping you gain a full return on IT investment with minimum downtime. As part of IT Outsourcing, we provide small help desk management to extensive IT Infrastructure management.",
+  "solTitle": "Connecting you with the right resource",
+  "bannerImage": "outsource",
+  "solImage": "outsource-sol.jpg",
+  "scroll": true,
+  "duration": 20,
+  "services": [
+    {
+      "title": "Managed Services Model",
+      "content": "Our outsourcing process can be applied to the Managed Services Model, wherein we take control of all or part of the IT systems and agree in terms of scope and pricing tied service levels by signing the Service Level Agreement. We will manage full services by integrating our tools, systems, and processes if required.",
+      "points": []
+    },
+    {
+      "title": "Co-Managed Services",
+      "content": "This service model is to fill the skills gaps in your organization, instead of recruiting people for those skills you can outsource it to us. Co-Managed services is a business relationship between your internal IT team and ZYCLYX IT engineers/ specialists where you pick as per your requirement.",
+      "points": []
+    },
+    {
+      "title": "Staff Augmentation Services",
+      "content": "Our highly trained and accredited specialists act as an extension of your IT department operating directly under your direction and supervision. Services covered are Enterprise Application, Operating Systems, Network Administrators and more. Our experts help to develop, manage, maintain and support your applications and systems.",
+      "points": []
+    },
+    {
+      "title": "Application Development Outsourcing",
+      "content": "The purpose of this model is to utilize our resources proficient development and customization skills to provide you with software or products for web, mobile and desktop platforms. We offer broad expertise and a global customer base across multiple verticals.",
+      "points": []
+    }
+  ]
+}

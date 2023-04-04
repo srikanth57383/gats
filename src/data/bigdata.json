@@ -1,0 +1,30 @@
+{
+  "title": "Bigdata",
+  "path": "bigdata",
+  "metaTitle": "Big Data Solutions | Big Data Services in India & USA",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "caption": "Delivering valuable insights to optimize operations",
+  "overview": "It contains different categories of large and diverse sets of data which are classified as structured, semi-structured and unstructured respectively. Our team uses various sources to extract this data that may be of varying size like terabytes to zettabytes. The solutions are designed to not just fetch more data but to provide valuable insights through its analysis. Thus leading to improved strategic plans and decision making for your businesses. This can be used in different industries like Banking, Advertising, Media Planning and more.",
+  "solTitle": "Converting raw data into actionable insights",
+  "bannerImage": "bigdata",
+  "solImage": "bigdata-sol.png",
+  "scroll": false,
+  "services": [
+    {
+      "title": "Analytics",
+      "content": "At ZYCLYX , our Analysts collate the organizations data to help identify new business opportunities. Thus, helping you develop intelligent business strategies, efficient operations, increased profits and more satisfied customers.",
+      "points": []
+    },
+    {
+      "title": "Management",
+      "content": "Our efforts are aimed to develop solutions that will make it easier to monitor data usage, study real-time analytics, reduce costs, improve data ingestion and manage huge workloads.",
+      "points": []
+    },
+    {
+      "title": "Integration",
+      "content": "We gather crucial relevant insights from different sources like internet reports, social media, traditional data, IoT and machine learning. All of this data is then merged to form a single framework.",
+      "points": []
+    }
+  ]
+}

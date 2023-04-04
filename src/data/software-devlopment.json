@@ -1,0 +1,29 @@
+{
+  "title": "Software Development",
+  "path": "software-development",
+  "metaTitle": "Best Software Development Company in India & USA",
+  "metaDescription": "ZYCLYX is the one of top most software development company in India. We build web, mobile and desktop solutions for B2B operation management, B2C interactions, and internal operation management.",
+  "metaKeywords": "CRM solution provider, ERP solutions, CMS systems, Best CRM solution provider in India, Top CRM service provider in india, ERP solutions in India, CMS service provider in India",
+  "caption": "Custom solutions for increased business value",
+  "overview": "We provide custom software development services for startups, small-to-midsize (SMB), and enterprise-size businesses. The solutions are designed to accelerate workflows, boost revenues, and optimize business operations. Our team creates an in-depth comprehensive software implementation & deployment plan, after thoroughly assessing your needs.",
+  "solTitle": "Unleash the true potential of your business",
+  "bannerImage": "software",
+  "solImage": "software-sol.png",
+  "scroll": false,
+  "services": [
+    {
+      "title": "Solutions Provided",
+      "content": "New technologies and processes are adopted to overcome challenges relating to everything from architectural design to testing to execution. With us, you get highly scalable, flexible, and cross-platform web, mobile, desktop, and hybrid applications.",
+      "points": [
+        "Consultant Services",
+        "Tailored Solutions",
+        "ERP System Customization (Oracle, Infor, Microsoft, SAP)",
+        "CMS / HRMS / CRM development",
+        "System Configurations",
+        "Effective Integration Services",
+        "Extension and Plugin Development",
+        "Support & Maintenance"
+      ]
+    }
+  ]
+}

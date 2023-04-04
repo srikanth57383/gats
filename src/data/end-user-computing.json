@@ -1,0 +1,35 @@
+{
+  "title": "End User Computing",
+  "path": "end-user-computing",
+  "metaTitle": "End User Computing",
+  "metaDescription": "End User Computing Services",
+  "metaKeywords": "",
+  "caption": "Achieve improved productivity, processes, and security",
+  "overview": "We aim to help your organization in accomplishing daily workload by consolidating individual systems into a single platform. By doing so you get more efficient and holistic user experience. Our process involves creating an intuitive, agile, scalable and manageable platform. We ensure the fluid introduction of new technologies to end-users.",
+  "solTitle": "Focusing on end-user satisfaction for superior productivity",
+  "bannerImage": "enduser",
+  "solImage": "enduser-sol.jpg",
+  "scroll": false,
+  "services": [
+    {
+      "title": "Custom Solutions",
+      "content": "We believe that solutions tailored for a specific device have more potential to deliver transformational results. Thus we customize our solutions to provide you with design, engineering, and deployment that matches your organization's unique needs.",
+      "points": []
+    },
+    {
+      "title": "Secured Virtual Client Solutions (VDI)",
+      "content": " Our solutions are designed to grant remote access to end-users without compromising on network security of their virtual desktops. This process includes development, installation, training, and support for Secure Virtual Clients and Virtual Desktop Infrastructures.",
+      "points": []
+    },
+    {
+      "title": "Mobile Solutions",
+      "content": "Our main focus is to provide desktop virtualization and secure remote data access. The experts at ZYCLYX produce efficient results with the use of computing resources while maintaining security.",
+      "points": []
+    },
+    {
+      "title": "Enablement Solutions",
+      "content": "We aim to provide an empowering experience to our end-users by granting them a secure “always-on” access to videos, documents, and other important data.",
+      "points": []
+    }
+  ]
+}

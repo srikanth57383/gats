@@ -1,0 +1,26 @@
+{
+  "title": "Web Development",
+  "path": "web-development",
+  "metaTitle": "Best Web Development Company India & USA",
+  "metaDescription": "ZYCLYX is the most trusted best web development company India. We have expertise in building high quality and responsive websites in India.",
+  "metaKeywords": "Web Application Development Company, Web Application Development Services, Custom Web Application Development, Web Applications Development, Web Application Development India,  Web Application Development Company India.",
+  "caption": "Developing custom applications with emerging Technologies",
+  "overview": "We offer a variety of web design and development services. These include creating progressive web apps, developing custom business applications, and delivering intranet experiences using the latest web technologies. With up to 85% of consumers visiting a company’s websites before making a purchase, their decisions are more likely to be based on their online experience: the appearance, usability, and accessibility of your website are now more important than ever, especially in an increasingly competitive market. Our team of expert developers delivers a range of websites, for instance, eCommerce, travel-reservation, education, hotels and restaurants, corporate, etc.",
+  "solTitle": "Impactful solutions that drive meaningful change ",
+  "bannerImage": "web",
+  "solImage": "web-sol.png",
+  "scroll": false,
+  "services": [
+    {
+      "title": "Solutions Provided",
+      "content": "Delivering high-performing, feature-packed, and digitally transformative web experiences using modern architecture & platforms. We care for the growth of your website and deliver a design that best suits the needs of your brand.",
+      "points": [
+        "SEO Optimized design and quality code ",
+        "Third-party integrations",
+        "QA and Testing",
+        "Consulting and Business Analysis",
+        "Support and Maintenance"
+      ]
+    }
+  ]
+}

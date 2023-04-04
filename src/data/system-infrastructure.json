@@ -1,0 +1,35 @@
+{
+  "title": "System Infrastructure",
+  "path": "system-infrastructure",
+  "metaTitle": "Best IT System Infrastructure Solutions",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "caption": "Managing complex IT systems to help you stay on top of the competition",
+  "overview": "Our System Infrastructure Services are dedicated to creating stable, secure and user-friendly environments for servers, mobile devices and client stations. The team aims to provide access to internal/external information, fast and efficient transfer of information and effective development of documents. We do so by offering solutions like OS installation, active directory design and launch, tuning and hardening, Monitoring internet access and web content management.",
+  "solTitle": "Modernize your infrastructure for optimal business results",
+  "bannerImage": "infra",
+  "solImage": "infra-sol",
+  "scroll": false,
+  "services": [
+    {
+      "title": "Application System",
+      "content": "To have a secure and reliable IT operation it is crucial to have an accurately designed, functional and stable system and application infrastructure. This would include everything from OS on servers, client stations, IT control systems to mobile devices.",
+      "points": []
+    },
+    {
+      "title": "Services included",
+      "content": "We have created the right mix of services inclusive of planning, execution, deployment, installation, and data migration for messaging systems and applications.",
+      "points": []
+    },
+    {
+      "title": "Messaging Strategy",
+      "content": "We create a messaging strategy for your business needs after the assessment of your current messaging system and by gathering insights into your current/ future messaging needs.",
+      "points": []
+    },
+    {
+      "title": "System Upgrade",
+      "content": "Our team will take care of your system upgrade needs while ensuring minimum disruption of your business.",
+      "points": []
+    }
+  ]
+}

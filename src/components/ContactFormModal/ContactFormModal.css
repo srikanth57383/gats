@@ -1,0 +1,40 @@
+.full-width-modal {
+  width: 100vw;
+  min-height: 90vh;
+  background: #f1f2f2;
+}
+.modal-header h5 {
+  text-align: center;
+  font-weight: 600;
+  color: #00a14b;
+}
+.PhoneInputCountrySelectArrow {
+  font-size: 1.5rem;
+}
+.full-width-modal .modal-title {
+  text-align: center;
+  width: 100%;
+}
+.success-msg {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  background-color: rgba(42, 148, 42, 0.8);
+  color: #f4f4f4;
+  padding: 1rem 0.2rem;
+  margin: 0.5rem 0;
+  height: 250px;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 1px 2px rgba(42, 148, 42, 0.2);
+  border-radius: 0.5rem;
+  z-index: 1000;
+}
+.PhoneInputCountrySelectArrow {
+  border-bottom: 2px solid #111b33 !important;
+  border-right: 2px solid #111b33 !important;
+}

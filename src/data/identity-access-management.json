@@ -1,0 +1,36 @@
+{
+  "title": "Identity & Access Management",
+  "path": "identity-access-management",
+  "metaTitle": "Identity and Access Management (IAM) Solutions - India & USA",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "caption": "Establish trusted user access beyond boundaries",
+  "overview": "The excessive reliability of interconnected systems in our work environment means that access to business data and other information must be shared across to employees, clients, and other stakeholders. Our solutions are modeled to ensure that remote access is granted while maintaining accessibility and security, thus helping your organization be ready for tomorrow.",
+  "solTitle": "For the next generation of big businesses",
+  "bannerImage": "iam",
+  "solImage": "iam-sol.jpg",
+  "scroll": true,
+  "duration": 25,
+  "services": [
+    {
+      "title": "Single Sign-On",
+      "content": "The team at ZYCLYX works to simplify your login issues with SSO, thus eliminating the need to remember login credentials for each application. It provides a single set of login credentials designed to grant access to all applications which have been integrated with SSO portal.",
+      "points": []
+    },
+    {
+      "title": "Privileged Access Management",
+      "content": "It involves the integrations of a transparent and unified platform that aligns with the business objective of your organizational strategy. We aim to manage, control, protect and monitor all privileged accounts along with the admin access for a more secure and compliant experience.",
+      "points": []
+    },
+    {
+      "title": "Integrated Access Management",
+      "content": "There are multiple benefits associated with this like the ease of - modification, provision, and deprovision of user identities. Along with this it also allows you to control user access to network resources from a central console.",
+      "points": []
+    },
+    {
+      "title": "Multi-Factor Authentication",
+      "content": "We develop multiple secure layers that guarantee protection from Cyber-criminals. There are various factors required for the authentication of users at different levels.",
+      "points": []
+    }
+  ]
+}

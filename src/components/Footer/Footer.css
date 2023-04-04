@@ -1,0 +1,13 @@
+.zyx-footer-module {
+  background-color: #111b33;
+}
+.zyx-footer-module address,
+.zyx-footer-module .phone-wrapper p {
+  color: hsl(114 20% 74% / 1);
+}
+.zyx-footer-module .subscribe-input {
+  height: 50px;
+}
+.zyx-footer-module .footer-bottom {
+  border-color: hsl(222, 50%, 18%) !important;
+}

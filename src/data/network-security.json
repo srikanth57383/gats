@@ -1,0 +1,41 @@
+{
+  "title": "Network Security",
+  "path": "network-security",
+  "metaTitle": "Best Network Security Companies in India & USA",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "caption": "Elevate your security with our 360-degree protection",
+  "overview": "When you have to work in a world of devious cybercriminals, it’s important to ensure that your network and data are safe. We at ZYCLYX use a combination of effective hardware and software solutions to protect you from multiple layers of intrusions and breaches. Our team is dedicated to the efficient movement of Network traffic that guarantees secure data sharing within the organization and external sources.",
+  "solTitle": "Secure solutions to level up your network safety",
+  "bannerImage": "network",
+  "solImage": "network-sol.jpg",
+  "scroll": true,
+  "duration": 55,
+  "services": [
+    {
+      "title": " Unified Threat Management (UTM)",
+      "content": "It is a single security system aimed at information security that offers various security functions for a single point on the network. This includes features like anti-malware, network firewalls, anti-virus, anti-spam, content filter, and leakage prevention, detection and prevention of intrusion.",
+      "points": []
+    },
+    {
+      "title": "Next-Generation Firewall (NGFW)",
+      "content": "The NGFW is capable of detecting and preventing sophisticated threats with the implementation of device, port and network security policies. As it is a part of the third generation firewall technology it can be executed by either hardware or software.",
+      "points": []
+    },
+    {
+      "title": "Intrusion Prevention Systems (IPS)",
+      "content": "It helps track the malicious activity on the network or system as part of the network security framework. Some of its major functions include detection of malicious activity, gathering details about such activities, reporting it and block/stop it.",
+      "points": []
+    },
+    {
+      "title": "NAC/ AAA",
+      "content": "Network Access Control (NAC) systems allow for access management and network surveillance by imposing certain policies on corporate network users and devices. These solutions are meant to allow organizations to have more control over access to their networks via profiling and visibility, guest network access, policy lifecycle management, incidence response, security posture check, and bidirectional integration. While Authentication, Authorization, and Accounting (AAA) are the key to mediate network access.",
+      "points": []
+    },
+    {
+      "title": "Web/Email Gateway Protection",
+      "content": "To ensure web-email protection, secure gateways are used which provide pre-delivery protection by blocking harmful emails before they reach the mail server. The gateway scans the mails for any signs of malicious content in incoming and outgoing mails including the attachments and URLs.",
+      "points": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Digital Marketing",
+  "path": "digital-marketing",
+  "metaTitle": " Digital Marketing Agency India & USA | Best Digital Marketing Companies in India & USA",
+  "metaDescription": "ZYCLYX is a Digital Marketing Company in India that offers services like SEO, SEM, SMO, Display Advertisement, PPC and SMM. Let's shake hands and increase your quality leads with our experienced team.",
+  "metaKeywords": "Digital Marketing Services, Digital Marketing, Best Digital marketing Services in India, SEO Services in India, Digital Marketing Agency, India",
+  "caption": "Focused, bold ideas, executed for an evolving world",
+  "overview": "In modern times, finding a connection with your target customers requires a right campaign. By implementing a digital marketing plan that can attract your audience on new-age platforms, we help you do just that. Our expert team focuses on increasing marketing efforts across digital platforms, such as search engines, social media, email campaigns, Google advertising, etc.",
+  "solTitle": "Maximize your online exposure in the era of digitization",
+  "bannerImage": "digital",
+  "solImage": "digital-sol.jpg",
+  "scroll": true,
+  "duration": 60,
+  "services": [
+    {
+      "title": "Google Ads and Analytics",
+      "content": "It gives you an opportunity to highlight your company through the largest search engine in the world. This can be achieved by designing different Ad campaigns, or by using the right keywords. Our PPC specialists use their expertise to refine and develop strategies across a wide variety of industries. We integrate Google Analytics with Ads to give you a better understanding of the traffic created by Ads and share it with you as campaign reports.",
+      "points": []
+    },
+    {
+      "title": "SEO",
+      "content": "It is an operation carried out to help link your clients to your online business. Our team begins by researching your current online presence, target market, business goals, etc, to get a better understanding and develop a completely personalized SEO strategy. Our expert strategies then use the best technology practices to execute this custom strategy and increase your online traffic.",
+      "points": []
+    },
+    {
+      "title": "Social Media Marketing",
+      "content": "With our team of experts, you no longer need to worry about missing out on your potential customers on social media. We help increase your brand recognition, create relationships and increase your web traffic. We seek to increase awareness of your brand across all major social media platforms, for instance, LinkedIn, Facebook, Instagram, and Twitter.",
+      "points": []
+    },
+    {
+      "title": "Email Marketing",
+      "content": "Email is a virtual communication system that has transformed the way companies conduct business. Our team provides 360-degree campaign preparation for your different customer categories, develop email templates and content to ensure your emails are not only catchy but also have the retention power.",
+      "points": []
+    },
+    {
+      "title": "App Store Optimization",
+      "content": "To have more user access to your app, App Store Optimization is necessary. By running strategic ASO campaigns we are helping you gain more exposure. Our goal is to also focus on performance improvements that are only possible through comprehensive analysis, ongoing testing and consistent executive.",
+      "points": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+.poc-wrapper {
+  background-color: #f0f1f9;
+}
+.poc-title {
+  font-size: 1.5rem;
+  color: #00a14b;
+}
+.poc-title-bg {
+  color: #111b33;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.poc-letter-wrapper {
+  position: relative;
+}
+.poc-letter {
+  color: rgba(197, 197, 197, 0.3);
+  font-family: "Roboto", sans-serif;
+  margin-right: 1.5rem;
+}
+@media (max-width: 576px) {
+  .poc-letter {
+    display: none;
+  }
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .poc-letter {
+    display: none;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .poc-letter {
+    font-size: 5rem;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .poc-letter {
+    font-size: 6rem;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .poc-letter {
+    font-size: 7rem;
+  }
+}

@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home3/iveondco/public_html/zyclyx_test/
+    - /bin/cp -R public $DEPLOYPATH

@@ -1,0 +1,30 @@
+{
+  "title": "Data Visualization",
+  "path": "data-visualization",
+  "metaTitle": "Smart Data Visualization Solutions",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "caption": "Visualize Data and discover valuable insights for a successful growth",
+  "overview": "This service is dedicated to visual representation of the data in the form of graphs, charts or other graphic representations. It enables users to view, search and understand the trends of Business Intelligence. We do the research of logical correlations of units, inclinations, behaviors, and trends, depending on the reason for which it is being done. Aside from data scientists and researchers, data visualization is often used in Accounting, Marketing, Engineering, etc",
+  "solTitle": "Develop visualization solutions from scratch",
+  "bannerImage": "datavis",
+  "solImage": "datavis-sol.png",
+  "scroll": false,
+  "services": [
+    {
+      "title": "Custom Solutions",
+      "content": " In order to identify the problem areas, we commence the process by assessing your business needs. On understanding, we create visualization solutions that are personalized to effectively solve your problems.",
+      "points": []
+    },
+    {
+      "title": "Training",
+      "content": "We offer the end-users with initial training to have an understanding of the capabilities of the tool and its various applications, even if such solutions can seem simple to use.",
+      "points": []
+    },
+    {
+      "title": "Support",
+      "content": "We offer support and maintenance services which include performance improvement, development to improve the current system, and migration from one analytical framework to another.",
+      "points": []
+    }
+  ]
+}

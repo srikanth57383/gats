@@ -1,0 +1,103 @@
+.industry-wrapper {
+  background-color: #111b33;
+}
+
+.i-card {
+  height: 200px;
+  background-color: hsl(222, 50%, 15%);
+  border-radius: 1rem;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 1rem;
+  color: #ffffff;
+  transition: all 0.2s ease-in;
+  position: relative;
+  cursor: pointer;
+}
+.i-card::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(17, 27, 51, 0.6);
+  z-index: 1;
+  border-radius: 1rem;
+}
+.i-card:hover {
+  transform: translateY(-10px);
+}
+.ind-card-title {
+  z-index: 2;
+  color: #ffffff;
+}
+.b-card {
+  background-image: url("../../../../static/images/industries/banking.png");
+  background-size: cover;
+}
+.h-card {
+  background-image: url("../../../../static/images/industries/healthcare.png");
+  background-size: cover;
+}
+.r-card {
+  background-image: url("../../../../static/images/industries/retail.png");
+  background-size: cover;
+}
+.t-card {
+  background-image: url("../../../../static/images/industries/telecom.png");
+  background-size: cover;
+}
+.l-card {
+  background-image: url("../../../../static/images/industries/logistics.png");
+  background-size: cover;
+}
+
+.ind-content {
+  color: hsl(222, 50%, 85%);
+  min-height: 180px;
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .i-card {
+    height: 50px;
+    padding-bottom: 0;
+  }
+  .card-title {
+    font-weight: 700;
+    font-size: 2rem;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .i-card {
+    height: 100px;
+  }
+  .ind-content {
+    min-height: 280px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .i-card {
+    height: 150px;
+  }
+  .ind-content {
+    min-height: 280px;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .ind-content {
+    min-height: 250px;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+/* @media (min-width: 1200px) {  } */

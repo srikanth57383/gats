@@ -1,0 +1,75 @@
+/* our clients */
+.clients {
+    padding: 3rem 0;
+    height: 250px;
+  }
+  .client {
+    max-height: 70px;
+  }
+  
+  .slick-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .slick-slide > div > div {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+  }
+  .slick-track {
+    display: flex !important;
+    align-items: center;
+  }
+  .gatsby-image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .slick-dots {
+    bottom: -35px !important;
+  }
+  .t-btn {
+    background-color: transparent;
+    border: none;
+    /* padding: 0rem 1rem; */
+    font-size: 1.8rem;
+    color: #777;
+    outline: none;
+    box-shadow: none;
+  }
+  .btn-left {
+    border-right: 1.5px solid #777;
+    ;
+  }
+  .t-btn-active {
+    font-weight: 500;
+    color: #00a14b;
+    font-size: 2rem;
+  }
+  .t-btn:active {
+    outline: none;
+  }
+  .slick-slide{
+      max-width: 350px !important;
+  }
+  .slick-track{
+      display: flex !important;
+       justify-content: center !important;
+  }
+  @media (max-width: 576px) {
+    .t-btn {
+      font-size: 1rem;
+      /* padding: 0rem 0.2rem; */
+    }
+  }
+  
+  @media (max-width: 765px) {
+    .clients {
+        padding: 2.5rem 0;
+        height: 230px;
+      }
+    .t-btn {
+      font-size: 1rem;       
+    }
+  }
